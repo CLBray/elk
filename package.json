@@ -102,7 +102,7 @@
     "file-saver": "^2.0.5",
     "fs-extra": "^11.1.0",
     "lint-staged": "^13.1.0",
-    "nuxt": "3.1.1",
+    "nuxt": "3.1.2",
     "nuxt-security": "^0.10.1",
     "nuxt-vitest": "^0.6.4",
     "postcss-nested": "^6.0.0",
